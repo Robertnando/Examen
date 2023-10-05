@@ -1,0 +1,38 @@
+body {
+    background: url(Images/cirno.png);
+}
+nav{
+    display: flex;
+    text-align: center;
+}
+.front{
+    background-color: brown;
+}
+.CIRNO{
+    background-color: blue;
+    padding: 1px;
+    margin: 1rem;
+}
+.THEJ{
+    color: black;
+    font-size: 20px;
+}
+.RED{
+    color: red;
+    font-size: 10px;
+    font-family: "Lucida Sans" "Sans-serif";
+}
+.THETEXT{
+    background-color: blue;
+    padding: 1px;
+    margin: 1rem;
+}
+.IMAGE{
+    background-color: blue;
+    padding: 1px;
+    margin: 1rem;
+}
+img{
+    padding: 1rem;
+    margin: 1rem;
+}
